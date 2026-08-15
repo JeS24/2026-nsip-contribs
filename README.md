@@ -1,22 +1,12 @@
-# SMLab -- NSIP 2026
-This repo stores the NSIP 2026 project and intern contribution summaries.
+# Project Tirtha (Heritage Map Explorer)
 
-Please [open a PR](https://github.com/JeS24/2026-nsip-contribs/compare) with a **single Markdown (`.md`) file** following the format below.
+A full-stack crowdsourced web application designed to democratize cultural heritage conservation through interactive MapLibre vector maps and WebGL-based 3D temple reconstructions.
 
-```md
-# Project Title
-
-## Summary
-
-- Brief description of the project.
-- Your primary contribution or responsibilities.
-- (Optional) Another notable achievement, feature, or result.
+## Highlights
+- Built the frontend-backend integration for user contributions, supporting multi-format image uploads (JPEG, PNG, HEIC/HEIF) with automated EXIF location extraction and Django-side compression.
+- Implemented a resizable three-column dashboard in React, optimizing mouse-drag DOM style writing to eliminate WebGL and canvas rendering lag.
 
 ## Links
-
-- **Homepage:** https://...
-- **LinkedIn:** https://...
-- **GitHub:** https://...
-- **Other:** https://...
-```
-Keep the summary concise (3-5 lines in total), as it will be displayed on the lab's public page.
+- **Homepage:** [tirtha-site](https://github.com/project-tirtha/tirtha-site)
+- **GitHub (dev):** [tirtha-dev](https://github.com/Debiprasad2002/tirtha-dev)
+- **Organization:** [project-tirtha](https://github.com/project-tirtha)
